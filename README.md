@@ -1,4 +1,4 @@
-# Project: NYC Subway System Recreation
+# Project 3: NYC Subway System Recreation
 ## CSCI 335
 
 This project can be viewed [here](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/assignments/project3.pdf).
